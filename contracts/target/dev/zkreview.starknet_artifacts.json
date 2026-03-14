@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"mjo0o4csvqbc2","package_name":"zkreview","contract_name":"BountyContract","module_path":"zkreview::bounty::BountyContract","artifacts":{"sierra":"zkreview_BountyContract.contract_class.json","casm":null}}]}

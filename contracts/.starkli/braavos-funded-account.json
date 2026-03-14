@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "variant": {
+    "type": "braavos",
+    "version": 1,
+    "multisig": {
+      "status": "off"
+    },
+    "signers": [
+      {
+        "type": "stark",
+        "public_key": "0x635d4cdc8a8cac781bd01fe72dfde46aa1e3a57eecd379800d753151dd08fc5"
+      }
+    ]
+  },
+  "deployment": {
+    "status": "deployed",
+    "class_hash": "0x3957f9f5a1cbfe918cedc2015c85200ca51a5f7506ecb6de98a5207b759bf8a",
+    "address": "0x2d67ea1cd4a11096a75e9649f7f6d5c1e16014c937c35bf2455f7c591c5ff9e"
+  }
+}

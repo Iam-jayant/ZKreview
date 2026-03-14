@@ -1,0 +1,18 @@
+[package]
+name = "zkreview"
+version = "0.1.0"
+edition = "2024_07"
+description = "zkReview bounty and review registry for Starknet"
+
+[dependencies]
+starknet = ">=2.6.0"
+
+[dev-dependencies]
+snforge_std = ">=0.22.0"
+
+[lib]
+
+[[target.starknet-contract]]
+
+[scripts]
+test = "snforge test"
